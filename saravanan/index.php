@@ -154,7 +154,7 @@
                <div class="col-md-12"><!-- col-md-12 Begin -->
                    
                    <h2>
-                       Our Latest Products
+                       Recently Updated Products
                    </h2>
                    
                </div><!-- col-md-12 Finish -->
